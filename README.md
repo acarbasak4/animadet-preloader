@@ -1,1 +1,1 @@
-# animadet-preloader
+# animated-preloader
